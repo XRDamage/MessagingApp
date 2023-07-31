@@ -1,8 +1,8 @@
-Python Online Messaging App
+# Python Online Messaging App
 
 This messaging app is coded using Python and a variety of API's associated with Python.
 
-A messaging app that can be accessed by multiple users to chat with ewach other using an online server.
+A messaging app that can be accessed by multiple users to chat with each other using an online server.
 The server code can be laoded on any virtual or phisical server to enable communication.
 The app automatically connects to the online server and allows for instant communication  to other connected users.
 
